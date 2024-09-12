@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\bin\Debug\net8.0\NestedIf.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\bin\Debug\net8.0\NestedIf.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\bin\Debug\net8.0\NestedIf.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\bin\Debug\net8.0\NestedIf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\bin\Debug\net8.0\NestedIf.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\refint\NestedIf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\NestedIf.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\NestedIf\obj\Debug\net8.0\ref\NestedIf.dll

@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll

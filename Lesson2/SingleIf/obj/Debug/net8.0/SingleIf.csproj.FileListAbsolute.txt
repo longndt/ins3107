@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\bin\Debug\net8.0\SingleIf.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\bin\Debug\net8.0\SingleIf.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\bin\Debug\net8.0\SingleIf.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\bin\Debug\net8.0\SingleIf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\bin\Debug\net8.0\SingleIf.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\refint\SingleIf.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\SingleIf.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\SingleIf\obj\Debug\net8.0\ref\SingleIf.dll

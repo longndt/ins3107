@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\bin\Debug\net8.0\ContinueExample.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\bin\Debug\net8.0\ContinueExample.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\bin\Debug\net8.0\ContinueExample.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\bin\Debug\net8.0\ContinueExample.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\bin\Debug\net8.0\ContinueExample.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\refint\ContinueExample.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ContinueExample.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\ContinueExample\obj\Debug\net8.0\ref\ContinueExample.dll

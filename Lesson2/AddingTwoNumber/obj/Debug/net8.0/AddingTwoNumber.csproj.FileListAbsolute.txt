@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\bin\Debug\net8.0\AddingTwoNumber.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\bin\Debug\net8.0\AddingTwoNumber.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\bin\Debug\net8.0\AddingTwoNumber.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\bin\Debug\net8.0\AddingTwoNumber.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\bin\Debug\net8.0\AddingTwoNumber.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\refint\AddingTwoNumber.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\AddingTwoNumber.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\AddingTwoNumber\obj\Debug\net8.0\ref\AddingTwoNumber.dll

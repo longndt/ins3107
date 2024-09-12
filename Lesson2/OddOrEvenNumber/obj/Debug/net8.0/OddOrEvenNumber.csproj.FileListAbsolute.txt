@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\bin\Debug\net8.0\OddOrEvenNumber.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\bin\Debug\net8.0\OddOrEvenNumber.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\bin\Debug\net8.0\OddOrEvenNumber.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\bin\Debug\net8.0\OddOrEvenNumber.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\bin\Debug\net8.0\OddOrEvenNumber.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\refint\OddOrEvenNumber.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\OddOrEvenNumber.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\OddOrEvenNumber\obj\Debug\net8.0\ref\OddOrEvenNumber.dll

@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\refint\DoWhileLoop.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson2\DoWhileLoop\obj\Debug\net8.0\ref\DoWhileLoop.dll
