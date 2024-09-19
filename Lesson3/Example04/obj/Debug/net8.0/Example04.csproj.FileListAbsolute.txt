@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\bin\Debug\net8.0\Example04.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\bin\Debug\net8.0\Example04.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\bin\Debug\net8.0\Example04.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\bin\Debug\net8.0\Example04.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\bin\Debug\net8.0\Example04.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\refint\Example04.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\Example04.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson03\Example04\obj\Debug\net8.0\ref\Example04.dll
