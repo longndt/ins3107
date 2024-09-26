@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85387EB1-4BB3-4854-896A-6F3E33529607}|OOP3\\OOP3.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson4\\oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85387EB1-4BB3-4854-896A-6F3E33529607}|OOP3\\OOP3.csproj|solutionrelative:oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85387EB1-4BB3-4854-896A-6F3E33529607}|OOP3\\OOP3.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson4\\oop3\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85387EB1-4BB3-4854-896A-6F3E33529607}|OOP3\\OOP3.csproj|solutionrelative:oop3\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson4\\OOP3\\Laptop.cs",
+              "RelativeDocumentMoniker": "OOP3\\Laptop.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson4\\OOP3\\Laptop.cs",
+              "RelativeToolTip": "OOP3\\Laptop.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:04:14.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson4\\OOP3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP3\\Program.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson4\\OOP3\\Program.cs",
+              "RelativeToolTip": "OOP3\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:03:59.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
