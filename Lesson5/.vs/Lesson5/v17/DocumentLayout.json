@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66C2284-3D72-4186-BB2A-4DA31975BB51}|Polymorphism2\\Polymorphism2.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson5\\polymorphism2\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66C2284-3D72-4186-BB2A-4DA31975BB51}|Polymorphism2\\Polymorphism2.csproj|solutionrelative:polymorphism2\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66C2284-3D72-4186-BB2A-4DA31975BB51}|Polymorphism2\\Polymorphism2.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson5\\polymorphism2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66C2284-3D72-4186-BB2A-4DA31975BB51}|Polymorphism2\\Polymorphism2.csproj|solutionrelative:polymorphism2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66C2284-3D72-4186-BB2A-4DA31975BB51}|Polymorphism2\\Polymorphism2.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson5\\polymorphism2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66C2284-3D72-4186-BB2A-4DA31975BB51}|Polymorphism2\\Polymorphism2.csproj|solutionrelative:polymorphism2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\Polymorphism2\\Cat.cs",
+              "RelativeDocumentMoniker": "Polymorphism2\\Cat.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\Polymorphism2\\Cat.cs",
+              "RelativeToolTip": "Polymorphism2\\Cat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:11:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\Polymorphism2\\Animal.cs",
+              "RelativeDocumentMoniker": "Polymorphism2\\Animal.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\Polymorphism2\\Animal.cs",
+              "RelativeToolTip": "Polymorphism2\\Animal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:11:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\Polymorphism2\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism2\\Program.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson5\\Polymorphism2\\Program.cs",
+              "RelativeToolTip": "Polymorphism2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:08:49.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\bin\Debug\net8.0\Polymorphism2.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\bin\Debug\net8.0\Polymorphism2.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\bin\Debug\net8.0\Polymorphism2.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\bin\Debug\net8.0\Polymorphism2.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\bin\Debug\net8.0\Polymorphism2.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\refint\Polymorphism2.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\Polymorphism2.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson5\Polymorphism2\obj\Debug\net8.0\ref\Polymorphism2.dll
