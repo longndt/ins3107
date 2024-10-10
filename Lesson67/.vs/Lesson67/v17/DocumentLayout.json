@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{517578FF-9C13-46C7-9A69-A3ED4FBD173F}|ArrayListDemo\\ArrayListDemo.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\arraylistdemo\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517578FF-9C13-46C7-9A69-A3ED4FBD173F}|ArrayListDemo\\ArrayListDemo.csproj|solutionrelative:arraylistdemo\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,22 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainClass.cs",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\ArrayListDemo\\MainClass.cs",
-              "RelativeDocumentMoniker": "ArrayListDemo\\MainClass.cs",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\ArrayListDemo\\MainClass.cs",
-              "RelativeToolTip": "ArrayListDemo\\MainClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T09:50:34.349Z",
-              "EditorCaption": ""
-            }
-          ]
+          "SelectedChildIndex": -1,
+          "Children": []
         }
       ]
     }

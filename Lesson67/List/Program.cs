@@ -26,7 +26,17 @@ namespace List
                 Console.WriteLine(p);
             // Insert a new person.
             Console.WriteLine("\n->Inserting new person.");
-            people.Insert(2, new Person { FirstName = "Maggie", LastName = "Simpson", Age = 2 });
+            Person newPerson = new Person { FirstName = "Maggie", LastName = "Simpson", Age = 2 };
+            people.Insert(4, newPerson);
+
+            // Print out again total item in list
+            Console.WriteLine("Items in list: {0}", people.Count);
+
+            // Delete a person from list
+            Console.WriteLine("\n->Delete a person.");
+            people.Remove(newPerson);
+
+            // Print out again total item in list
             Console.WriteLine("Items in list: {0}", people.Count);
 
             // Copy data into a new array.

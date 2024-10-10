@@ -1,0 +1,15 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\bin\Debug\net8.0\ArrayList123.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\bin\Debug\net8.0\ArrayList123.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\bin\Debug\net8.0\ArrayList123.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\bin\Debug\net8.0\ArrayList123.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\bin\Debug\net8.0\ArrayList123.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\refint\ArrayList123.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ArrayList123.genruntimeconfig.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayList\obj\Debug\net8.0\ref\ArrayList123.dll

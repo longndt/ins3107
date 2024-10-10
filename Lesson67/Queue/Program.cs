@@ -17,6 +17,8 @@ namespace Queue
         {
             // Make a Q with three people.
             Queue<Person> peopleQ = new Queue<Person>();
+
+            // Insert person to Q
             peopleQ.Enqueue(new Person { FirstName = "Homer", LastName = "Simpson", Age = 47 });
             peopleQ.Enqueue(new Person { FirstName = "Marge", LastName = "Simpson", Age = 45 });
             peopleQ.Enqueue(new Person { FirstName = "Lisa", LastName = "Simpson", Age = 9 });
