@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\bin\Debug\Queue.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\bin\Debug\Queue.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\bin\Debug\Queue.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\obj\Debug\Queue.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Queue\obj\Debug\Queue.pdb

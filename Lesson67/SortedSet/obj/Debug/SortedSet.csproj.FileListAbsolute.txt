@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\bin\Debug\SortedSet.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\bin\Debug\SortedSet.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\bin\Debug\SortedSet.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\obj\Debug\SortedSet.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SortedSet\obj\Debug\SortedSet.pdb

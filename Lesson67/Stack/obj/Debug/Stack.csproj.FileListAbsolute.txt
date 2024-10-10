@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\bin\Debug\Stack.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\bin\Debug\Stack.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\bin\Debug\Stack.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\obj\Debug\Stack.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\bin\Debug\Homework.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\bin\Debug\Homework.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\bin\Debug\Homework.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\obj\Debug\Homework.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\Homework\obj\Debug\Homework.pdb

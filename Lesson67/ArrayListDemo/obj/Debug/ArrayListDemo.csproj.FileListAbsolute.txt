@@ -1,0 +1,14 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\bin\Debug\TestCode.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\bin\Debug\TestCode.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\bin\Debug\TestCode.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\obj\Debug\TestCode.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\ArrayListDemo\obj\Debug\TestCode.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\bin\Debug\TestCode.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\bin\Debug\TestCode.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\bin\Debug\TestCode.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\obj\Debug\TestCode.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\ArrayListDemo\obj\Debug\TestCode.pdb

@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
