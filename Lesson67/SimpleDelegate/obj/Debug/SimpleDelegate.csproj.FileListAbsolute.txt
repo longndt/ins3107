@@ -5,3 +5,10 @@ D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleD
 D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
 D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.exe
 D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab7\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

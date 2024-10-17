@@ -23,7 +23,7 @@ namespace CarEvents
             CurrentSpeed = currSpeed;
         }
         private bool isDead = false;
-        public void Accerlerate(int delta)
+        public void Accelerate(int delta)
         {
             if (isDead)
             {

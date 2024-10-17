@@ -14,18 +14,25 @@ namespace SimpleDelegate
         {
             return x - y;
         }
+        public static int Multiply(int x, int y)
+        {
+            return x * y;
+        }
     }
     class MainClass
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("*********** Simple delegate example ***************");
-            BinaryOp op = new BinaryOp(SimpleMath.Add);
+            BinaryOp op1 = new BinaryOp(SimpleMath.Add);
             //Invoke add method indirectly using delegate
-            Console.WriteLine("10 + 10 = {0}", op(10, 10));
+            Console.WriteLine("10 + 10 = {0}", op1(10, 10));
 
-            BinaryOp op1 = new BinaryOp(SimpleMath.Substract);
-            Console.WriteLine("10 - 10 = {0}", op1(10, 10));
+            BinaryOp op2 = new BinaryOp(SimpleMath.Substract);
+            Console.WriteLine("10 - 10 = {0}", op2(10, 10));
+
+            BinaryOp op3 = new BinaryOp(SimpleMath.Multiply);
+            Console.WriteLine("10 * 10 = {0}", op3(10, 10));
         }
     }
 }

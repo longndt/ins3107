@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\bin\Debug\CarDelegate.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\bin\Debug\CarDelegate.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\bin\Debug\CarDelegate.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\obj\Debug\CarDelegate.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\obj\Debug\CarDelegate.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson67\CarDelegate\obj\Debug\CarDelegate.pdb

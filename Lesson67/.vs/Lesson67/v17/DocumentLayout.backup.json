@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{209C8DED-1170-4EA5-8D8D-F25AF43C6D72}|List\\List.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209C8DED-1170-4EA5-8D8D-F25AF43C6D72}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6E27DC-0211-48FA-B0CF-31602BD79B90}|CarDelegate\\CarDelegate.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\cardelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6E27DC-0211-48FA-B0CF-31602BD79B90}|CarDelegate\\CarDelegate.csproj|solutionrelative:cardelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9C3CAB-625C-442F-8BC4-2778CD9A50C4}|Stack\\Stack.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9C3CAB-625C-442F-8BC4-2778CD9A50C4}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C957C92F-7312-47DE-A7D6-244A88F542B1}|Queue\\Queue.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\queue\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C957C92F-7312-47DE-A7D6-244A88F542B1}|Queue\\Queue.csproj|solutionrelative:queue\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C957C92F-7312-47DE-A7D6-244A88F542B1}|Queue\\Queue.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C957C92F-7312-47DE-A7D6-244A88F542B1}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6E27DC-0211-48FA-B0CF-31602BD79B90}|CarDelegate\\CarDelegate.csproj|d:\\workspace\\vnuis-ins3107\\vnuis-ins310701-fa24\\lesson67\\cardelegate\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6E27DC-0211-48FA-B0CF-31602BD79B90}|CarDelegate\\CarDelegate.csproj|solutionrelative:cardelegate\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,56 +21,33 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\Queue\\Person.cs",
-              "RelativeDocumentMoniker": "Queue\\Person.cs",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\Queue\\Person.cs",
-              "RelativeToolTip": "Queue\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:12:52.277Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\List\\Program.cs",
-              "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\List\\Program.cs",
-              "RelativeToolTip": "List\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvyMAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\CarDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "CarDelegate\\Program.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\CarDelegate\\Program.cs",
+              "RelativeToolTip": "CarDelegate\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:17:05.387Z",
+              "WhenOpened": "2024-10-17T09:48:21.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\Stack\\Program.cs",
-              "RelativeDocumentMoniker": "Stack\\Program.cs",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\Stack\\Program.cs",
-              "RelativeToolTip": "Stack\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvw4AAAAaAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\CarDelegate\\Car.cs",
+              "RelativeDocumentMoniker": "CarDelegate\\Car.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\CarDelegate\\Car.cs",
+              "RelativeToolTip": "CarDelegate\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:15:06.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\Queue\\Program.cs",
-              "RelativeDocumentMoniker": "Queue\\Program.cs",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\Lesson67\\Queue\\Program.cs",
-              "RelativeToolTip": "Queue\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:12:57.887Z",
+              "WhenOpened": "2024-10-17T09:48:15.197Z",
               "EditorCaption": ""
             }
           ]
