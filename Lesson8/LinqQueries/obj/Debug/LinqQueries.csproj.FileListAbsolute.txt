@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\bin\Debug\LinqQueries.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\bin\Debug\LinqQueries.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\bin\Debug\LinqQueries.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\obj\Debug\LinqQueries.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\obj\Debug\LinqQueries.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\obj\Debug\LinqQueries.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqQueries\obj\Debug\LinqQueries.pdb

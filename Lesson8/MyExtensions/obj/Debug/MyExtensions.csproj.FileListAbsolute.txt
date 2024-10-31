@@ -5,3 +5,10 @@ D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\MyExtensions\obj\Debug\MyExtensi
 D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\MyExtensions\obj\Debug\MyExtensions.csproj.CoreCompileInputs.cache
 D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\MyExtensions\obj\Debug\MyExtensions.exe
 D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\MyExtensions\obj\Debug\MyExtensions.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\bin\Debug\MyExtensions.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\bin\Debug\MyExtensions.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\bin\Debug\MyExtensions.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\obj\Debug\MyExtensions.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\obj\Debug\MyExtensions.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\obj\Debug\MyExtensions.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\MyExtensions\obj\Debug\MyExtensions.pdb

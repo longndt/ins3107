@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\bin\Debug\LinqOverArray.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\bin\Debug\LinqOverArray.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\obj\Debug\LinqOverArray.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\obj\Debug\LinqOverArray.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqOverArray\obj\Debug\LinqOverArray.pdb

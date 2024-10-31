@@ -1,0 +1,14 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\bin\Debug\netcoreapp3.1\ImmediateExecution.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\bin\Debug\netcoreapp3.1\ImmediateExecution.deps.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\bin\Debug\netcoreapp3.1\ImmediateExecution.runtimeconfig.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\bin\Debug\netcoreapp3.1\ImmediateExecution.runtimeconfig.dev.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\bin\Debug\netcoreapp3.1\ImmediateExecution.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\bin\Debug\netcoreapp3.1\ImmediateExecution.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.AssemblyInfoInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.AssemblyInfo.cs
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.sourcelink.json
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.dll
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\ImmediateExecution\obj\Debug\netcoreapp3.1\ImmediateExecution.genruntimeconfig.cache

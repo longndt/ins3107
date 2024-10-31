@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

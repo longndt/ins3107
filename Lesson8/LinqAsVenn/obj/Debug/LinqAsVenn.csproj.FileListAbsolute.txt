@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\bin\Debug\LinqAsVenn.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\bin\Debug\LinqAsVenn.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\bin\Debug\LinqAsVenn.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\obj\Debug\LinqAsVenn.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\obj\Debug\LinqAsVenn.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\obj\Debug\LinqAsVenn.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\LinqAsVenn\obj\Debug\LinqAsVenn.pdb

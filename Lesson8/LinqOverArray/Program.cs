@@ -5,7 +5,7 @@ namespace LinqOverArray
 {
     class MainClass
     {
-        public static void QueryOverStrings()
+        static void QueryOverStrings()
         {
             // Assume we have an array of strings.
             string[] currentVideoGames = { "Morrowind", "Uncharted 2", "Fallout 3", "Daxter", "System Shock 2" };
@@ -54,16 +54,31 @@ namespace LinqOverArray
                 Console.WriteLine("Item: {0} ", i);
         }
 
+        static void QueryOverIntsWithoutLinQ()
+        {
+            int[] numbers = { 10, 20, 30, 40, 1, 2, 3, 8 };
+
+            // ...and here.
+            foreach (var i in numbers)
+            {
+                if (i < 10) {
+                    Console.WriteLine("Item: {0} ", i);
+                }
+            }
+              
+        }
 
         public static void Main(string[] args)
         {
             Console.WriteLine("************** Fun with LINQ **************");
 
-            QueryOverStrings();
+            //QueryOverStrings();
 
-            //QueryOverStringsLonghand();
+            //QueryOverStringsLongHand();
 
-            //QueryOverInts();
+            //QueryOverInts
+           
+            QueryOverIntsWithoutLinQ();
 
             Console.ReadLine();
         }

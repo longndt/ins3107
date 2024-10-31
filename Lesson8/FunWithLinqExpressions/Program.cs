@@ -21,7 +21,9 @@ namespace FunWithLinqExpressions
                 new ProductInfo{ Name = "RipOff Water",
                     Description = "From the tap to your wallet", NumberInStock = 100},
                 new ProductInfo{ Name = "Classic Valpo Pizza",
-                    Description = "Everyone loves pizza!", NumberInStock = 73}};
+                    Description = "Everyone loves pizza!", NumberInStock = 73},
+                new ProductInfo { }  //an empty ProductInfo item
+        };
 
             // We will call various methods here!
             Console.ReadLine();
@@ -102,7 +104,7 @@ namespace FunWithLinqExpressions
         // Return value is now an Array.
         static Array GetProjectedSubset(ProductInfo[] products)
         {
-            var nameDesc = from p in products select new { p.Name, p.Description };
+            var nameDesc = from p in products select new { p.Name, p.Description, p.NumberInStock };
 
             // Map set of anonymous objects to an Array object.
             return nameDesc.ToArray();
