@@ -1,0 +1,14 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\bin\Debug\StudentMark.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\bin\Debug\StudentMark.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\bin\Debug\StudentMark.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\obj\Debug\StudentMark.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\obj\Debug\StudentMark.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\obj\Debug\StudentMark.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310702\lab8\StudentMark\obj\Debug\StudentMark.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\bin\Debug\StudentMark.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\bin\Debug\StudentMark.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\bin\Debug\StudentMark.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\obj\Debug\StudentMark.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\obj\Debug\StudentMark.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\obj\Debug\StudentMark.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701\lab8\StudentMark\obj\Debug\StudentMark.pdb

@@ -1,0 +1,7 @@
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.AssemblyReference.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\Lesson8\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
