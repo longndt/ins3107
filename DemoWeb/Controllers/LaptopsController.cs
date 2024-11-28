@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using DemoWeb.Data;
 using DemoWeb.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using System.IO;
 
 namespace DemoWeb.Controllers
 {
@@ -20,6 +23,7 @@ namespace DemoWeb.Controllers
         }
 
         // GET: Laptops
+        [Authorize(Roles = "Admin, Customer")]
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Laptop.Include(l => l.Category);
@@ -57,10 +61,27 @@ namespace DemoWeb.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Price,Quantity,Image,CategoryId")] Laptop laptop)
+        public async Task<IActionResult> Create([Bind("Id,Name,Price,Quantity,Image,CategoryId")] Laptop laptop, IFormFile Image)
         {
             if (ModelState.IsValid)
             {
+                //validate image is valid or not
+                if (Image != null && Image.Length > 0)
+                {
+                    //set image file name
+                    var fileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(Image.FileName);
+                    //set image file location
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", fileName);
+
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        //copy (upload) image file from orignal location to project folder
+                        Image.CopyTo(stream);
+                    }
+
+                    //set image file name for book cover
+                    laptop.Image = "/images/" + fileName;
+                }
                 _context.Add(laptop);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -123,6 +144,7 @@ namespace DemoWeb.Controllers
         }
 
         // GET: Laptops/Delete/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -144,6 +166,7 @@ namespace DemoWeb.Controllers
         // POST: Laptops/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var laptop = await _context.Laptop.FindAsync(id);
@@ -155,6 +178,24 @@ namespace DemoWeb.Controllers
         private bool LaptopExists(int id)
         {
             return _context.Laptop.Any(e => e.Id == id);
+        }
+
+        public async Task<IActionResult> Search(string name)
+        {
+            var applicationDbContext = _context.Laptop.Include(l => l.Category).Where(lap => lap.Name.Contains(name));
+            return View("Index", await applicationDbContext.ToListAsync());
+        }
+
+        public async Task<IActionResult> SortPriceAsc()
+        {
+            var applicationDbContext = _context.Laptop.Include(l => l.Category).OrderBy(lap => lap.Price);
+            return View("Index", await applicationDbContext.ToListAsync());
+        }
+
+        public async Task<IActionResult> SortPriceDesc()
+        {
+            var applicationDbContext = _context.Laptop.Include(l => l.Category).OrderByDescending(lap => lap.Price);
+            return View("Index", await applicationDbContext.ToListAsync());
         }
     }
 }

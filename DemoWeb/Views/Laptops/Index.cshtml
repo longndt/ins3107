@@ -6,6 +6,20 @@
 
 <h1>Index</h1>
 
+<div class="container mt-3 mb-3">
+    <div class="row">
+        <div class="col">
+            <form method="post" asp-controller="Laptops" asp-action="Search">
+                <input class="form-control" type="search" name="name" required placeholder="Search by laptop name" />
+            </form>
+        </div>
+        <div class="col">
+            <a class="btn btn-outline-danger" asp-controller="Laptops" asp-action="SortPriceAsc">Price ASC</a>
+            <a class="btn btn-outline-success" asp-controller="Laptops" asp-action="SortPriceDesc">Price DESC</a>
+        </div>
+    </div>
+</div>
+
 <p>
     <a class="btn btn-outline-primary" asp-action="Create">Create New</a>
 </p>
@@ -52,7 +66,9 @@
                 <td>
                     <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                     <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin")) {
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    }
                 </td>
             </tr>
         }

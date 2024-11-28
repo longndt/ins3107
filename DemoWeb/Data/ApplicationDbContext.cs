@@ -4,6 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using DemoWeb.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace DemoWeb.Data
 {
@@ -20,6 +21,9 @@ namespace DemoWeb.Data
         {
             base.OnModelCreating(builder);
 
+            //Seed data for user & role
+            SeedUserRole(builder);
+
             //Seed data for table Category
             SeedCategory(builder);
 
@@ -27,6 +31,69 @@ namespace DemoWeb.Data
             SeedLaptop(builder);
         }
 
+        private void SeedUserRole(ModelBuilder builder)
+        {
+            //A) Setup IdentityUser
+            //1. Create accounts
+            var adminAccount = new IdentityUser
+            {
+                Id = "admin-account",
+                UserName = "admin@gmail.com",
+                Email = "admin@gmail.com",
+                NormalizedUserName = "ADMIN@GMAIL.COM",
+                NormalizedEmail = "ADMIN@GMAIL.COM",
+                EmailConfirmed = true
+            };
+
+            var customerAccount = new IdentityUser
+            {
+                Id = "customer-account",
+                UserName = "customer@gmail.com",
+                Email = "cutomer@gmail.com",
+                NormalizedUserName = "CUSTOMER@GMAIL.COM",
+                NormalizedEmail = "CUSTOMER@GMAIL.COM",
+                EmailConfirmed = true
+            };
+
+            //2. Declare hasher for password encryption
+            var hasher = new PasswordHasher<IdentityUser>();
+
+            //3. Setup password for accounts
+            adminAccount.PasswordHash = hasher.HashPassword(adminAccount, "123456");
+            customerAccount.PasswordHash = hasher.HashPassword(customerAccount, "123456");
+
+            //4. Add accounts to database
+            builder.Entity<IdentityUser>().HasData(adminAccount, customerAccount);
+
+            //B) Setup IdentityRole
+            builder.Entity<IdentityRole>().HasData(
+                new IdentityRole
+                {
+                    Id = "admin-role",
+                    Name = "Admin",
+                    NormalizedName = "ADMIN"
+                },
+                 new IdentityRole
+                 {
+                    Id = "customer-role",
+                    Name = "Customer",
+                    NormalizedName = "CUSTOMER"
+                 });
+
+            //C) Setup IdentityUserRole
+            builder.Entity<IdentityUserRole<string>>().HasData(
+                new IdentityUserRole<string>
+                {
+                    UserId = "admin-account",
+                    RoleId = "admin-role"
+                },
+                new IdentityUserRole<string>
+                {
+                    UserId = "customer-account",
+                    RoleId = "customer-role"
+                }
+             );
+        }
 
         private void SeedCategory(ModelBuilder builder)
         {

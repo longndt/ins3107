@@ -12,9 +12,28 @@ namespace AspNetCoreGeneratedDocument
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
-    #line default
-    #line hidden
+#nullable restore
+#line 1 "D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\DemoWeb\Areas\Identity\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity
+
+#nullable disable
+    ;
+#nullable restore
+#line 2 "D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\DemoWeb\Areas\Identity\Pages\_ViewImports.cshtml"
+using DemoWeb.Areas.Identity
+
+#nullable disable
+    ;
+#nullable restore
+#line 3 "D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\DemoWeb\Areas\Identity\Pages\_ViewImports.cshtml"
+using DemoWeb.Areas.Identity.Pages
+
+#line default
+#line hidden
+#nullable disable
+    ;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"ff2f0c08e4c4522597448f1c553985a289ff77266246dda050b688aa47c4d670", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1f1ed4909904ab4ec98c87d4e9fecd241aa04d86d69a51669b7f9193ce4d6918", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Areas_Identity_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
