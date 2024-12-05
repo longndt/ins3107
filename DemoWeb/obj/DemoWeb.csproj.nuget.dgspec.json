@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\DemoWeb\\DemoWeb.csproj": {}
+    "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\DemoWeb.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\DemoWeb\\DemoWeb.csproj": {
+    "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\DemoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\DemoWeb\\DemoWeb.csproj",
+        "projectUniqueName": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\DemoWeb.csproj",
         "projectName": "DemoWeb",
-        "projectPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\DemoWeb\\DemoWeb.csproj",
+        "projectPath": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\DemoWeb.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\DemoWeb\\obj\\",
+        "outputPath": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

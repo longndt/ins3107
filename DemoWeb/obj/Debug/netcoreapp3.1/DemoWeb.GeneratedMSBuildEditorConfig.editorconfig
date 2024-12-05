@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = DemoWeb
-build_property.ProjectDir = D:\workspace\VNUIS-INS3107\vnuis-ins310701-fa24\DemoWeb\
+build_property.ProjectDir = D:\workspace\VNUIS-INS3107\ins3107\DemoWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

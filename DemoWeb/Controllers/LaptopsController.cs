@@ -26,7 +26,7 @@ namespace DemoWeb.Controllers
         [Authorize(Roles = "Admin, Customer")]
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Laptop.Include(l => l.Category);
+            var applicationDbContext = _context.Laptop.Include(l => l.Category).OrderByDescending(l => l.Id);
             return View(await applicationDbContext.ToListAsync());
         }
 

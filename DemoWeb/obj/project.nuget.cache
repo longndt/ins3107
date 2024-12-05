@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVYz6nfQMKw=",
+  "dgSpecHash": "8EO+bZwUXhI=",
   "success": true,
-  "projectFilePath": "D:\\workspace\\VNUIS-INS3107\\vnuis-ins310701-fa24\\DemoWeb\\DemoWeb.csproj",
+  "projectFilePath": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\DemoWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\longn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.32\\microsoft.aspnetcore.cryptography.internal.3.1.32.nupkg.sha512",
     "C:\\Users\\longn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.32\\microsoft.aspnetcore.cryptography.keyderivation.3.1.32.nupkg.sha512",

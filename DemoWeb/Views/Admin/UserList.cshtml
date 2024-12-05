@@ -1,0 +1,42 @@
+﻿@model List<DemoWeb.Models.UserViewModel>
+
+<div class="container">
+    @if (TempData["Success"] != null) {
+        <p class="alert alert-success">
+            @TempData["Success"]
+        </p>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <p class="alert alert-danger">
+            @TempData["Error"]
+        </p>
+    }
+    <h1 class="text text-primary text-uppercase mt-3 mb-3">User Management</h1>
+    <table class="table table-bordered mt-3 mb-3">
+        <tr>
+            <th>No.</th>
+            <th>User Id</th>
+            <th>User Email</th>
+            <th>User Role</th>
+            <th>Actions</th>
+        </tr>
+        @{
+            int i = 1;
+        }
+        @foreach (UserViewModel user in Model) {
+            <tr>
+                <td>@i</td>
+                <td>@user.Id</td>
+                <td>@user.Email</td>
+                <td>@string.Join(", ", user.Roles)</td>
+                <td>
+                    <form asp-action="ResetPass" asp-route-id="@user.Id" method="post">
+                        <button class="btn btn-warning">Reset Pass</button>
+                    </form>
+                </td>
+            </tr>
+            i++;
+        }
+    </table>
+</div>
