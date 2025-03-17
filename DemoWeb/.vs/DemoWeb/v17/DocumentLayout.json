@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|d:\\workspace\\vnuis-ins3107\\ins3107\\demoweb\\views\\admin\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|solutionrelative:views\\admin\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|d:\\workspace\\vnuis-ins3107\\ins3107\\demoweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 119,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserList.cshtml",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Views\\Admin\\UserList.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\UserList.cshtml",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Views\\Admin\\UserList.cshtml",
-              "RelativeToolTip": "Views\\Admin\\UserList.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T09:33:30.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAxwDwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:26:01.426Z",
-              "EditorCaption": ""
             }
           ]
         }

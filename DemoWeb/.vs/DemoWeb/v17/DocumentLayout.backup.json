@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|d:\\workspace\\vnuis-ins3107\\ins3107\\demoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|d:\\workspace\\vnuis-ins3107\\ins3107\\demoweb\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|solutionrelative:models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|d:\\workspace\\vnuis-ins3107\\ins3107\\demoweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|d:\\workspace\\vnuis-ins3107\\ins3107\\demoweb\\views\\admin\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACEB6EEA-19F2-4F01-8954-A4A655B675ED}|DemoWeb.csproj|solutionrelative:views\\admin\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,28 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T09:50:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Models\\Laptop.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Models\\Laptop.cs",
+              "RelativeToolTip": "Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:49:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:48:30.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserList.cshtml",
               "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Views\\Admin\\UserList.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\UserList.cshtml",
               "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Views\\Admin\\UserList.cshtml",
               "RelativeToolTip": "Views\\Admin\\UserList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-05T09:33:30.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "D:\\workspace\\VNUIS-INS3107\\ins3107\\DemoWeb\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAxwDwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwDwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:26:01.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:26:01.426Z"
             }
           ]
         }
